@@ -66,10 +66,10 @@ Expo Notifications for reminders
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
-![output-1](https://github.com/user-attachments/assets/a82fcae8-460f-4596-a632-73d76c9fa9c8)
-![output-2](https://github.com/user-attachments/assets/52ae4ec5-0b80-437e-9cf2-ed2a6631ead8)
-![output-3](https://github.com/user-attachments/assets/362e6a65-1ba2-44a5-9b95-0f264e6c8877)
-![output-4](https://github.com/user-attachments/assets/8a0758c7-fff0-4ae5-b4d9-8727ef62aba3)
+![output-1](https://github.com/user-attachments/assets/a82fcae8-460f-4596-a632-73d76c9fa9c8)  ![output-2](https://github.com/user-attachments/assets/52ae4ec5-0b80-437e-9cf2-ed2a6631ead8)
+
+![output-3](https://github.com/user-attachments/assets/362e6a65-1ba2-44a5-9b95-0f264e6c8877)   ![output-4](https://github.com/user-attachments/assets/8a0758c7-fff0-4ae5-b4d9-8727ef62aba3)
+
 ![output-5](https://github.com/user-attachments/assets/2ba0192b-466a-4c1a-9f42-f25d7d2001b9)
 
 
